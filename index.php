@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "dicodingapps-server-khoirul02.database.windows.net";
-    $user = "khoirul02";
+    $user = "khoirul02@dicodingapps-server-khoirul02";
     $pass = "khoirul23!";
     $db = "dicoding-database-khoirul02";
 
